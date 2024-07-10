@@ -1,3 +1,4 @@
+--  creates a function SafeDiv that divides (and returns) the first by the second number
 DELIMITER //
 
 DROP FUNCTION IF EXISTS SafeDiv;
